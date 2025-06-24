@@ -1,0 +1,11 @@
+SupplierID,Name,Location,Reliability
+SUP001,Alpha Industries,China,High
+SUP002,Beta Components,USA,Medium
+SUP003,Gamma Logistics,Germany,High
+SUP004,Delta Materials,India,Medium
+SUP005,Epsilon Supply,Japan,High
+SUP006,Zeta Corp,Canada,Medium
+SUP007,Eta Manufacturing,UK,High
+SUP008,Theta Resources,Australia,Medium
+SUP009,Iota Solutions,Singapore,High
+SUP010,Kappa Group,France,Medium

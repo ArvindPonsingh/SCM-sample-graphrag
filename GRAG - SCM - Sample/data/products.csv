@@ -1,0 +1,11 @@
+ProductID,Name,Description,Material,LeadTime
+PROD01,Widget A,Standard Widget,Steel,5 days
+PROD02,Gadget B,Advanced Gadget,Plastic,10 days
+PROD03,Component X,Essential Part,Aluminum,3 days
+PROD04,Assembly Y,Final Assembly,Various,7 days
+PROD05,Part Z,Specialized Component,Titanium,15 days
+PROD06,Unit W,Basic Unit,Copper,2 days
+PROD07,Module V,Integrated Module,Electronics,12 days
+PROD08,Fixture U,Supporting Fixture,Iron,6 days
+PROD09,Element T,Raw Element,Carbon,4 days
+PROD10,System S,Complex System,Mixed,20 days
